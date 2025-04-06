@@ -8,7 +8,8 @@ The goal of this project is to build a regression model that can predict the pur
 
 Python
 Pandas, NumPy
-Matplotlib, Seaborn
+Matplotlib
+Seaborn
 Scikit-learn
 
 ## 3. Data Preprocessing
@@ -30,6 +31,7 @@ Proper encoding and cleaning help models learn patterns better and prevent bias 
 - Purchase amount vs. Age, Gender, Marital Status.
 - Product category wise purchases.
 - City Category vs. average Purchase.
+- 
 EDA helped us understand which features are most related to the purchase amount and gave insights for feature engineering.
 
 ##  5. Model Building
