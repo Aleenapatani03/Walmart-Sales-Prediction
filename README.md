@@ -42,7 +42,7 @@ Models Used:
 - RandomForestRegressor
 - DecisionTreeRegressor
 - XGBRegressor
-- 
+
 Why These Models?
 - All are tree-based ensemble models:
 - Handle non-linearities well.
@@ -71,6 +71,7 @@ Each model was evaluated using these metrics.
   R² Score: 0.6412
   MAE: 2233.8
   MSE: 8.8 Million
+  
 Conclusion: Both Random Forest and XGBoost performed similarly, with XGBoost having a slightly better MAE.
 
 ## 8. Visualization
