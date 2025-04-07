@@ -5,7 +5,7 @@
 The goal of this project is to build a regression model that can predict the purchase amount of customers based on their demographic and product-related information using a real-world dataset from Walmart.
 
 ## Dataset
-- <a" https://github.com/Aleenapatani03/Walmart-Sales-Prediction/blob/main/walmart.csv ">Dataset</a>
+- <a href=" https://github.com/Aleenapatani03/Walmart-Sales-Prediction/blob/main/walmart.csv ">Dataset</a>
 ## 2.Tools & Technologies
 
 Python
