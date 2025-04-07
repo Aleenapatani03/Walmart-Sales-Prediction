@@ -5,7 +5,7 @@
 The goal of this project is to build a regression model that can predict the purchase amount of customers based on their demographic and product-related information using a real-world dataset from Walmart.
 
 ## Dataset
-- <a href=" https://github.com/Aleenapatani03/Walmart-Sales-Prediction/blob/main/walmart.csv ">Dataset</a>
+ <a href=" https://github.com/Aleenapatani03/Walmart-Sales-Prediction/blob/main/walmart.csv ">Dataset</a>
 ## 2.Tools & Technologies
 
 Python
@@ -33,7 +33,7 @@ Proper encoding and cleaning help models learn patterns better and prevent bias 
 - Purchase amount vs. Age, Gender, Marital Status.
 - Product category wise purchases.
 - City Category vs. average Purchase.
-- 
+  
 EDA helped us understand which features are most related to the purchase amount and gave insights for feature engineering.
 
 ##  5. Model Building
